@@ -1,1 +1,75 @@
 ------------
+Intro to NetworkX
+Graphs (wisc.edu)
+
+
+
+
+LLM/ChatGPT
+
+https://github.com/AaronCWacker/WritingCodeWithChatGPTandHuggingface
+[2/9 2:15 PM] Wacker, Aaron C
+1.	Go here: https://chat.openai.com/chat
+2.	If that was down, try here: https://platform.openai.com/playground
+3.	Register for the research preview, gain access then return to URL.
+4.	Optionally there is a discord link from a prompt engineering cchannel here: https://discord.com/channels/974519864045756446/1046317269069864970
+5.	 
+
+https://huggingface.co/spaces/awacke1/PandasDataframeAutoFilterStreamlit
+
+https://labs.kagi.com/ai/sum
+Dude this is awesome,
+Kagi describing Data Mesh: 
+https://labs.kagi.com/ai/sum?url=https://www.montecarlodata.com/blog-what-is-a-data-mesh-and-how-not-to-mesh-it-up/&expand=1
+https://colab.research.google.com/github/derekphilipau/machinelearningforartists/blob/main/PIFuHD_Demo.ipynb#scrollTo=yFhjP7E755nl
+
+ https://www.youtube.com/watch?v=W7wJDJ56c88   //protein folding
+Noncompliant action (youtube.com)
+
+approximatelabs/sketch: AI code-writing assistant that understands data content (github.com)
+
+GitHub - felix-zaslavskiy/large-language-model-chats: Chats recorded by using Large Language models
+
+IQ Studio (optum.ai)
+
+https://github.com/joelgrus/data-science-from-scratch
+
+
+https://platform.openai.com/playground
+
+ https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+
+[2/15 3:34 PM] Wacker, Aaron C
+Comparison to BigScience Model:
+Big Science - How to get started
+Big Science is a 176B parameter new ML model that was trained on a set of datasets for Natural Language processing, and many other tasks that are not yet explored.. Below is the set of the papers, models, links, and datasets around big science which promises to be the best, most recent large model of its kind benefitting all science pursuits.
+Model: https://huggingface.co/bigscience/bloom
+Papers:
+1.	BLOOM: A 176B-Parameter Open-Access Multilingual Language Model https://arxiv.org/abs/2211.05100
+2.	Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism https://arxiv.org/abs/1909.08053
+3.	8-bit Optimizers via Block-wise Quantization https://arxiv.org/abs/2110.02861
+4.	Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation https://arxiv.org/abs/2108.12409
+5.	https://huggingface.co/models?other=doi:10.57967/hf/0003
+6.	217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
+Datasets
+1.	Universal Dependencies: https://paperswithcode.com/dataset/universal-dependencies
+2.	WMT 2014: https://paperswithcode.com/dataset/wmt-2014
+3.	The Pile: https://paperswithcode.com/dataset/the-pile
+4.	HumanEval: https://paperswithcode.com/dataset/humaneval
+5.	FLORES-101: https://paperswithcode.com/dataset/flores-101
+6.	CrowS-Pairs: https://paperswithcode.com/dataset/crows-pairs
+7.	WikiLingua: https://paperswithcode.com/dataset/wikilingua
+8.	MTEB: https://paperswithcode.com/dataset/mteb
+9.	xP3: https://paperswithcode.com/dataset/xp3
+10.	DiaBLa: https://paperswithcode.com/dataset/diabla
+heart 1
+bigscience/bloom · Hugging Face
+We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+===============================================================================================
+
+
+
+Thank you
+Leszek Laskowski | Optum Technology| Basking Ridge, NJ 
+
